@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2bdf64a4fe819f488852e8547e47009, type: 3}
+  m_Name: dat_i_mel_Wrench
+  m_EditorClassIdentifier: 
+  firearmScript: {fileID: 0}
+  meleeScript: {fileID: 7012989252394328135, guid: c5a57a7eb02aa8c46a7721d02a154c8d,
+    type: 3}
+  consumableScript: {fileID: 0}
+  itemName: Wrench
+  itemDescription: Rusty repair wrench. Sturdy and heavy. Deals moderate damage
+  flavorText: Hope whoever this belongs to won't need it for a while....
+  itemType: 1
+  itemID: 0003
+  itemWeight: 4
+  sceneInstance: {fileID: 7012989252394328133, guid: c5a57a7eb02aa8c46a7721d02a154c8d,
+    type: 3}
+  spawnedAsItem: 0
+  playerData: {fileID: 11400000, guid: 01f4e2d057b573e459965c33a26deb64, type: 2}
+  modelWhenDropped: {fileID: 1260420567006558625, guid: 21f09fe476f19b44a815888d68a3d033,
+    type: 3}
+  baseDamage: 4
+  firearmData: {fileID: 0}
+  meleeWeaponData: {fileID: 11400000}
+  isEquipped: 0
+  mRequirement: 3
+  type: 1
+  staminaCost: 4
+  swingSpeed: 0.2
+  minimumHoldTime: 0.5
+  attackRange: 2
+  missChance: 0
+  attackableLayers:
+    serializedVersion: 2
+    m_Bits: 4096
+  swingSound: {fileID: 8300000, guid: ec5f41841121c224d8cd1587b4e11e31, type: 3}

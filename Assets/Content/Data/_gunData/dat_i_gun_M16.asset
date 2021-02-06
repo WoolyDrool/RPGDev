@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac9a23f8dd05e5145b5d13c6c54bdf60, type: 3}
+  m_Name: dat_i_gun_M16
+  m_EditorClassIdentifier: 
+  firearmScript: {fileID: 7000242715163238439, guid: 1ab409c595056654a93a6307c8afe762,
+    type: 3}
+  meleeScript: {fileID: 0}
+  consumableScript: {fileID: 0}
+  itemName: M16
+  itemDescription: A sturdy military grade automatic rifle that fires in bursts.
+    Deals moderate damage
+  flavorText: 'This was probably stolen from a military shipment somewhere. Its in
+    good condition but has obviously seen better days. '
+  itemType: 0
+  itemID: 0002
+  itemWeight: 12
+  sceneInstance: {fileID: 7000242715163238437, guid: 1ab409c595056654a93a6307c8afe762,
+    type: 3}
+  spawnedAsItem: 0
+  playerData: {fileID: 11400000, guid: 01f4e2d057b573e459965c33a26deb64, type: 2}
+  modelWhenDropped: {fileID: 1145121864994942261, guid: 40cd2bc0d6646714ab9f9cede91ddac0,
+    type: 3}
+  baseDamage: 7
+  firearmData: {fileID: 11400000}
+  meleeWeaponData: {fileID: 0}
+  isEquipped: 1
+  firingType: 1
+  fRequirement: 1
+  ammoType: 1
+  bullet: {fileID: 4860873787078633407, guid: 0a4534a5070522f49b00090c35018206, type: 3}
+  ammoPerShot: 1
+  clipSize: 21
+  reloadSpeed: 1
+  firingSpeed: 0.15
+  projectileSpeed: 70
+  burstSize: 3
+  burstInterval: 0.1
+  accuracyPenalty: 4
+  projectileRange: 25
+  kickBackPowerHip: 2
+  kickBackPowerAim: 1
+  recoilSpeed: 8
+  returnSpeed: 18
+  firingSFX: {fileID: 8300000, guid: ec5f41841121c224d8cd1587b4e11e31, type: 3}
+  muzzleFlash: {fileID: 7935790656232778219, guid: e9e7d772f88947f42b1cb1b64e6ff066,
+    type: 3}

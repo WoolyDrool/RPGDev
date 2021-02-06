@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b680d0688a5d1b478ab269d8d436c25, type: 3}
+  m_Name: geaga
+  m_EditorClassIdentifier: 
+  firearmScript: {fileID: 0}
+  meleeScript: {fileID: 0}
+  consumableScript: {fileID: 1655290291472917529, guid: 780dd9b8cfb319942b4127415c27251f,
+    type: 3}
+  itemName: eageag
+  itemDescription: geage
+  flavorText: geagaegaegag
+  itemType: 2
+  itemID: 
+  itemWeight: 0
+  sceneInstance: {fileID: 2305173797546604350, guid: 780dd9b8cfb319942b4127415c27251f,
+    type: 3}
+  spawnedAsItem: 0
+  playerData: {fileID: 0}
+  modelWhenDropped: {fileID: 2655909427296391782, guid: 1ca570a838c095d45a2f345dfeea5894,
+    type: 3}
+  consumableType: 0
+  healthPositiveGain: 0
+  healthNegativeGain: 0
+  staminaPositiveGain: 0
+  staminaNegativeGain: 0
+  sanityPositiveGain: 0
+  sanityNegativeGain: 0

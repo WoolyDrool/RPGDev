@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff0ef2104b330e84ea48fe108f1d4691, type: 3}
+  m_Name: dat_UI_GunData
+  m_EditorClassIdentifier: 
+  UIScene: {fileID: 3741478531218635369, guid: f799bc131fab91c4c9e3c9abe806a681, type: 3}
+  textComponents:
+  - {fileID: 3676211299098136263, guid: ddf9bbb267a97d144b55fca87cd58b37, type: 3}
+  - {fileID: 2635468400230786157, guid: ddf9bbb267a97d144b55fca87cd58b37, type: 3}
+  sliderComponents: []
+  layoutGroups: []

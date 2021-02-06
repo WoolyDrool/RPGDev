@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff0ef2104b330e84ea48fe108f1d4691, type: 3}
+  m_Name: dat_UI_InventoryUI
+  m_EditorClassIdentifier: 
+  UIScene: {fileID: 3404443917278539807, guid: 9517434a198be1a43b3388b0205ced16, type: 3}
+  textComponents: []
+  sliderComponents: []
+  layoutGroups: []

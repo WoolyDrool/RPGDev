@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac9a23f8dd05e5145b5d13c6c54bdf60, type: 3}
+  m_Name: dat_i_gun_SawedOffShotgun
+  m_EditorClassIdentifier: 
+  firearmScript: {fileID: 216332083128362549, guid: 7ddd13c249397f44bac8c4e4b2dd5c83,
+    type: 3}
+  meleeScript: {fileID: 0}
+  consumableScript: {fileID: 0}
+  itemName: Sawed-Off Shotgun
+  itemDescription: A short but powerful shotgun with the barrel cut off. Deals immense
+    damage up close
+  flavorText: This shotguns craftsman ship is exceptional, but has been crudely modified
+    by someone. The polish is worn and the barrel has sharp edges. Don't cut yourself
+  itemType: 0
+  itemID: 0001
+  itemWeight: 8
+  sceneInstance: {fileID: 216332083128362551, guid: 7ddd13c249397f44bac8c4e4b2dd5c83,
+    type: 3}
+  spawnedAsItem: 0
+  playerData: {fileID: 11400000, guid: 01f4e2d057b573e459965c33a26deb64, type: 2}
+  modelWhenDropped: {fileID: 919132149155446097, guid: 94677376b9cca1042a7f5ab734b0aa7a,
+    type: 3}
+  baseDamage: 12
+  firearmData: {fileID: 11400000}
+  meleeWeaponData: {fileID: 0}
+  isEquipped: 1
+  firingType: 0
+  fRequirement: 1
+  ammoType: 2
+  bullet: {fileID: 7466197945286401709, guid: c9870e7a7a6a3da488f5325d2bac582b, type: 3}
+  ammoPerShot: 2
+  clipSize: 2
+  reloadSpeed: 1
+  firingSpeed: 1
+  projectileSpeed: 140
+  burstSize: 3
+  burstInterval: 0.05
+  accuracyPenalty: 9
+  projectileRange: 25
+  kickBackPowerHip: 8
+  kickBackPowerAim: 3
+  recoilSpeed: 8
+  returnSpeed: 18
+  firingSFX: {fileID: 8300000, guid: 9c10829ffe039ba4f8633580452eb3d0, type: 3}
+  muzzleFlash: {fileID: 7935790656232778219, guid: e9e7d772f88947f42b1cb1b64e6ff066,
+    type: 3}
